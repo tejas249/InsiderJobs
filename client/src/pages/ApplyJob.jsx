@@ -4,7 +4,7 @@ import { AppContext } from '../context/AppContext'
 import Loading from '../components/Loading'
 import Navbar from '../components/Navbar'
 import { assets } from '../assets/assets'
-import kconvert from  'k-convert';
+import kconvert from 'k-convert';
 import moment from 'moment';
 import JobCard from '../components/JobCard'
 import Footer from '../components/Footer'
